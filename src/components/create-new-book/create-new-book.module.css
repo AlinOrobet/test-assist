@@ -1,0 +1,15 @@
+.container {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+}
+form {
+	border: 2px solid #ddd;
+	padding: 30px;
+}
+input {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	border: 2px solid #ddd;
+}

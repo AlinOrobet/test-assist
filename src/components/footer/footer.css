@@ -1,0 +1,10 @@
+/* 
+	TASK 1 TIP
+	See how book-review/src/app/app.css file is being used in this project 
+*/
+.footer-layout {
+	border-top: 2px solid #ddd;
+	padding: 15px;
+	text-align: center;
+	height: 5vh;
+}

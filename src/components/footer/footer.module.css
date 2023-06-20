@@ -1,0 +1,23 @@
+/*
+  TASK 1 TIP
+
+  Css modules are supported automatically in this project.
+  You need to import this file inside the footer-layout.jsx and then use "footerLayout" class properly.
+  For more information read https://vitejs.dev/guide/features.html#css-modules
+
+  If you don't have experience with css modules, consider using the footer-layout.css file instead.
+*/
+
+.footer {
+	border-top: 2px solid #ddd;
+	padding: 15px;
+	text-align: center;
+	height: 5vh;
+}
+
+.footerLayout {
+	border-top: 2px solid #ddd;
+	padding: 15px;
+	text-align: center;
+	height: 5vh;
+}

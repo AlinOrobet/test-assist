@@ -1,0 +1,17 @@
+.bookItem {
+	padding: 15px;
+	border: 2px solid #ddd;
+}
+
+.bookTitle {
+	font-size: 22px;
+	margin-bottom: 18px;
+}
+
+.bookAuthor {
+	font-size: 20px;
+	margin-bottom: 18px;
+}
+strong {
+	font-weight: bold;
+}

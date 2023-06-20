@@ -1,0 +1,28 @@
+.navigation {
+	height: 100%;
+	/* cursor: pointer; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.navigationList {
+	padding: 0;
+	margin: 0;
+	display: flex;
+}
+
+.navigationItem {
+	display: inline-block;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.navigationLink {
+	font-size: 14px;
+	text-decoration: underline;
+	text-transform: uppercase;
+	padding: 5px;
+	cursor: pointer;
+	display: inline-block;
+}
